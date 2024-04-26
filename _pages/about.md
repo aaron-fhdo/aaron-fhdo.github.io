@@ -6,7 +6,7 @@ subtitle: Stuttgart, DE
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: minecraft_alex.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
