@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started an internship with the Cross-Domain Computing at Robert Bosch Gmbh
+Started an internship with the Cross-Domain Computing at Robert Bosch GmbH
